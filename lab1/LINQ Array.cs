@@ -11,7 +11,7 @@ namespace lab1
         static void Main(string[] args)
         {
 
-
+            //NumberQuery();
             //numberLambda();
         }
          
@@ -26,7 +26,7 @@ namespace lab1
                 Console.WriteLine(number.ToString());
 
             }
-
+            Console.ReadLine();
 
         }
         
